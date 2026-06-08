@@ -342,16 +342,6 @@ print("✅ All 15 products processed and saved!")
 
 ---
 
-## 📸 Screenshots
-
-### Step 1 — Dataset Loading
-<img src="images/Load the Dataset.png" alt="Load the Dataset" width="800"/>
-
-### Step 6 — Final Evaluation Results
-<img src="images/FINAL EVALUATION RESULTS.png" alt="Final Evaluation Results" width="560"/>
-
----
-
 ## 🎯 Key Design Decisions
 
 | Decision | Rationale |
