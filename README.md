@@ -14,7 +14,7 @@
 &nbsp;&nbsp;
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 &nbsp;&nbsp;
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-yellow)](https://github.com/m1n1v1rus/ai-product-image-generator/blob/main/LICENSE)
 
 **NIAT Masterclass · Kaggle Community Competition**
 
