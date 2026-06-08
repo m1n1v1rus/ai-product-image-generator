@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model cache (too large to commit)
+*.bin
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+models/
+model_cache/
+huggingface_cache/
+
+# Output files (can be regenerated)
+submission.csv
+final_scores.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Kaggle API credentials
+kaggle.json
